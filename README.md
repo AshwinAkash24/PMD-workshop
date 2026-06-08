@@ -51,6 +51,11 @@ Inserts data into SQLite database.<br>
 Allows editing and deleting selected records.
 
 # Output
+<img width="1912" height="1075" alt="image" src="https://github.com/user-attachments/assets/6ee722cf-170b-4a91-9ecb-ee56d66e04d7" />
+<img width="1916" height="1076" alt="image" src="https://github.com/user-attachments/assets/6b199adb-1014-4ac7-8f8e-de5f3f8855ae" />
+<img width="1917" height="1074" alt="image" src="https://github.com/user-attachments/assets/916b4970-2dbc-4802-857c-1691520cc943" />
+
+
 
 
 
