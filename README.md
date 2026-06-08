@@ -7,46 +7,46 @@ Create a SQLite database named CountryDB.
 Create a table countries with fields:
 ID (Primary Key)
 Country Name
-Currency
+Currency<br>
 **Step 2: Add Record**<br>
 Open Add Country screen.
 Enter country name and currency.
 Save the data into SQLite database.
-Display a success message.
+Display a success message.<br>
 **Step 3: View Records**<br>
 Retrieve all records from SQLite database.
 Store records in an ArrayList.
-Display records using ListView.
+Display records using ListView.<br>
 **Step 4: Update Record**<br>
 Select a record from ListView.
 Open Modify Country screen.
 Edit country name or currency.
 Update the record in SQLite database.
-Refresh ListView.
+Refresh ListView.<br>
 **Step 5: Delete Record**<br>
 Select a record from ListView.
 Click Delete button.
 Remove the selected record from database.
-Refresh ListView.
+Refresh ListView.<br>
 **Step 6: Exit Application**<br>
 Close the application after performing required operations.
 
 # Program Description
 **DatabaseHelper.java**<br>
 Creates SQLite database and countries table.
-Handles database creation and upgrades.
+Handles database creation and upgrades.<br>
 **DBManager.java**<br>
 Provides methods for:
 Insert Record
 Fetch Records
 Update Record
-Delete Record
+Delete Record<br>
 **CountryListActivity.java**<br>
 Displays all country records in ListView.
-Handles selection of records.
+Handles selection of records.<br>
 **AddCountryActivity.java**<br>
 Allows user to enter country name and currency.
-Inserts data into SQLite database.
+Inserts data into SQLite database.<br>
 **ModifyCountryActivity.java**<br>
 Allows editing and deleting selected records.
 
